@@ -157,8 +157,8 @@ class datashield ( $test_data=true, $firewall=true,
   $remote_mysql=false, $remote_mysql_url='', $remote_mysql_user='', $remote_mysql_pass='',
   $remote_mysql_opal_data_db='opal_data', $remote_mysql_opal_ids_db='opal_ids', $opal_release = 'stable',
   $opal_password='password', $opal_password_hash = '$shiro1$SHA-256$500000$dxucP0IgyO99rdL0Ltj1Qg==$qssS60kTC7TqE61/JFrX/OEk0jsZbYXjiGhR7/t+XNY=',
-  $dsbase_githubusername = 'datashield', $dsbase_ref = 'master', $dsstats_githubusername = 'datashield', $dsstats_ref = 'master',
-  $dsgraphics_githubusername = 'datashield', $dsgraphics_ref = 'master', $dsmodelling_githubusername = 'datashield', $dsmodelling_ref = 'master') {
+  $dsbase_githubusername = 'StuartWheater', $dsbase_ref = 'master', $dsstats_githubusername = 'StuartWheater', $dsstats_ref = 'master',
+  $dsgraphics_githubusername = 'StuartWheater', $dsgraphics_ref = 'master', $dsmodelling_githubusername = 'StuartWheater', $dsmodelling_ref = 'master') {
 
   $remote_mongodb_ids = $remote_mongodb
   $remote_mysql_ids = $remote_mysql
